@@ -3,7 +3,7 @@
 |Integrante|correo|usuario github|
 |---|---|---|
 |Emanuel Lopez Hiuita|emanuel.lopezh@udea.edu.co|EmanuelLopezH|
-|Andres Calvo|andres.calvo@udea.edu.co|AndresCalvo123|
+|Andres Calvo|andres.calvoa@udea.edu.co|andres-calvo|
 
 ## Instrucciones
 
