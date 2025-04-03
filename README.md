@@ -73,7 +73,7 @@ This program, [`process-run.py`](process-run.py), allows you to see how process 
 
    <details>
    <summary>Answer</summary>
-A diferencia de la ejecución anterior, esta estrategia permite una utilización más eficiente de los recursos. Esto se debe a que el proceso que generó una solicitud de I/O puede reanudarse rápidamente. En este ejemplo, el PID:0 realiza múltiples solicitudes de I/O, lo que facilita detectar y ejecutar nuevas operaciones de I/O pendientes mientras se alterna con otros procesos. Ejecutar nuevamente un proceso que completó una operación de I/O es beneficioso porque podría tener más solicitudes de I/O pendientes, optimizando así el uso del procesador y reduciendo tiempos de espera.
+   A diferencia de la ejecución anterior, esta estrategia permite una utilización más eficiente de los recursos. Esto se debe a que el proceso que generó una solicitud de I/O puede reanudarse rápidamente. En este ejemplo, el PID:0 realiza múltiples solicitudes de I/O, lo que facilita detectar y ejecutar nuevas operaciones de I/O pendientes mientras se alterna con otros procesos. Ejecutar nuevamente un proceso que completó una operación de I/O es beneficioso porque podría tener más solicitudes de I/O pendientes, optimizando así el uso del procesador y reduciendo tiempos de espera.
    </details>
    <br>
 
